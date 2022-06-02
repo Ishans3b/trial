@@ -27,7 +27,7 @@ console.log(nam)
         <div>
             
                 <label>
-                    Namesdsddsdsdsdsd
+                    Namesdsddsdsdsdsdlqjnfkqjeljqebfkjqebfkqjekqdkqjekqbeb
                 </label>
                 <input type="text" name="name"  onChange={handleinputs}></input>
             <label>
